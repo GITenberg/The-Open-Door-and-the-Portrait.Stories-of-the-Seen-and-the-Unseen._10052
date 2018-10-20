@@ -13,6 +13,7 @@ Title: The Open Door, and the Portrait.
 Author: Margaret O. (Wilson) Oliphant
 
 Release Date: November 11, 2003 [EBook #10052]
+[Last updated: May 8, 2017]
 
 Language: English
 
@@ -33,7 +34,7 @@ and the Online Distributed Proofreading Team
 
                    Stories of the Seen and the Unseen
 
-                    By Margaret O. Wilson Oliphant's
+                     By Margaret O. Wilson Oliphant
 
                                  1881
 
@@ -54,7 +55,7 @@ school; which was thought to be better for him than either leaving home
 altogether or staying there always with a tutor. The first of these
 expedients would have seemed preferable to me; the second commended
 itself to his mother. The doctor, like a judicious man, took the midway
-between. "Put him on his pony, and let him rile into the High School
+between. "Put him on his pony, and let him ride into the High School
 every morning; it will do him all the good in the world," Dr. Simson
 said; "and when it is bad weather, there is the train." His mother
 accepted this solution of the difficulty more easily than I could have
@@ -194,7 +195,7 @@ the club porter brought me two telegrams, one of which, he said, had
 arrived the night before. I opened, as was to be expected, the last
 first, and this was what I read: "Why don't you come or answer? For God's
 sake, come. He is much worse." This was a thunderbolt to fall upon a
-man's head who had one only son, and lie the light of his eyes! The other
+man's head who had one only son, and he the light of his eyes! The other
 telegram, which I opened with hands trembling so much that I lost time by
 my haste, was to much the same purport: "No better; doctor afraid of
 brain-fever. Calls for you day and night. Let nothing detain you." The
@@ -335,9 +336,11 @@ think I was telling lies to my own child! for I did it only to humor him,
 thinking, poor little fellow, his brain was wrong.
 
 "Yes, father. Father, there is some one in the park--some one that has
-been badly used." "Hush, my dear; you remember there is to be no
-excitement. Well, who is this somebody, and who has been ill-using him?
-We will soon put a stop to that."
+been badly used."
+
+"Hush, my dear; you remember there is to be no excitement. Well, who
+is this somebody, and who has been ill-using him? We will soon put
+a stop to that."
 
 "All," cried Roland, "but it is not so easy as you think. I don't know
 who it is. It is just a cry. Oh, if you could hear it! It gets into my
@@ -705,7 +708,7 @@ to fear anything,--man or devil,--certainly not the former; and I felt
 that I was losing time. The Jarvises were too thankful to get rid of me.
 They attended me to the door with the most anxious courtesies. Outside,
 the two grooms stood close by, a little confused by my sudden exit. I
-don't know if perhaps they had been listening,--as least standing as near
+don't know if perhaps they had been listening,--at least standing as near
 as possible, to catch any scrap of the conversation. I waved my hand to
 them as I went past, in answer to their salutations, and it was very
 apparent to me that they also were glad to see me go.
